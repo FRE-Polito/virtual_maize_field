@@ -1,0 +1,16 @@
+plant_height_min: 0.3
+plant_height_max: 0.4
+
+row_width: 0.75
+row_length: 20.0
+rows_count: 10
+row_segments:
+  - straight
+  - curved
+row_curve_budget: 0.78539816339
+row_segment_curved_radius_min: 8.0
+row_segment_curved_radius_max: 10.0
+ground_resolution: 0.15
+ground_elevation_max: 0.05
+hole_prob: [0.15, 0.08, 0.03, 0.02, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0]
+hole_size_max: [9, 7, 4, 5, 5, 3, 2, 0, 0, 0]
